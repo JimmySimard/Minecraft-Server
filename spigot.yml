@@ -70,31 +70,6 @@ world-settings:
     zombie-aggressive-towards-villager: true
     chunks-per-tick: 650
     clear-tick-list: false
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
-    hopper-alt-ticking: false
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    hopper-amount: 1
     mob-spawn-range: 4
     nerf-spawner-mobs: false
     growth:
@@ -128,3 +103,28 @@ world-settings:
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
+    hopper-alt-ticking: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    hopper-amount: 1
