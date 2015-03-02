@@ -99,10 +99,6 @@ world-settings:
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
-    max-entity-collisions: 8
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -128,3 +124,7 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 8
     hopper-amount: 1
+    max-entity-collisions: 8
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
