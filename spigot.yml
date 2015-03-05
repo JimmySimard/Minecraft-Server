@@ -19,9 +19,6 @@ settings:
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
-  filter-creative-items: true
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
@@ -34,9 +31,11 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  filter-creative-items: true
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
-  silent-commandblock-console: false
   log: true
   spam-exclusions:
   - /skill
@@ -45,6 +44,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  silent-commandblock-console: false
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
