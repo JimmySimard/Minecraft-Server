@@ -1,234 +1,261 @@
-[16:56:29] [Server thread/INFO]: Starting minecraft server version 1.8
-[16:56:29] [Server thread/INFO]: Loading properties
-[16:56:29] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:29] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
-[16:56:29] [Server thread/INFO]: Debug logging is disabled
-[16:56:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:56:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:56:29] [Server thread/INFO]: Generating keypair
-[16:56:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:56:30] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:56:30] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
-[16:56:30] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
-[16:56:32] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:56:32] [Server thread/INFO]: Preparing level "world"
-[16:56:32] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:56:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:56:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:56:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:56:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:56:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:56:32] [Server thread/INFO]: View Distance: 10
-[16:56:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:56:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:56:32] [Server thread/INFO]: Clear tick list: false
-[16:56:32] [Server thread/INFO]: Mob Spawn Range: 4
-[16:56:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:56:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:56:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:56:32] [Server thread/INFO]: Random Lighting Updates: false
-[16:56:32] [Server thread/INFO]: Structure Info Saving: true
-[16:56:32] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:56:32] [Server thread/INFO]: Max TNT Explosions: 100
-[16:56:32] [Server thread/INFO]: Max Entity Collisions: 8
-[16:56:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:56:32] [Server thread/INFO]: Anti X-Ray: true
-[16:56:32] [Server thread/INFO]: 	Engine Mode: 1
-[16:56:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:56:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:56:32] [Server thread/INFO]: Alternative Hopper Ticking: false
-[16:56:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:56:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:56:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:56:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:56:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:56:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:56:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:56:32] [Server thread/INFO]: View Distance: 10
-[16:56:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:56:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:56:32] [Server thread/INFO]: Clear tick list: false
-[16:56:32] [Server thread/INFO]: Mob Spawn Range: 4
-[16:56:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:56:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:56:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:56:32] [Server thread/INFO]: Random Lighting Updates: false
-[16:56:32] [Server thread/INFO]: Structure Info Saving: true
-[16:56:32] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:56:32] [Server thread/INFO]: Max TNT Explosions: 100
-[16:56:32] [Server thread/INFO]: Max Entity Collisions: 8
-[16:56:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:56:32] [Server thread/INFO]: Anti X-Ray: true
-[16:56:32] [Server thread/INFO]: 	Engine Mode: 1
-[16:56:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:56:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:56:32] [Server thread/INFO]: Alternative Hopper Ticking: false
-[16:56:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:56:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:56:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:56:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:56:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:56:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:56:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:56:32] [Server thread/INFO]: View Distance: 10
-[16:56:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:56:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[16:56:32] [Server thread/INFO]: Clear tick list: false
-[16:56:32] [Server thread/INFO]: Mob Spawn Range: 4
-[16:56:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:56:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:56:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:56:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:56:32] [Server thread/INFO]: Random Lighting Updates: false
-[16:56:32] [Server thread/INFO]: Structure Info Saving: true
-[16:56:32] [Server thread/INFO]: Sending up to 10 chunks per packet
-[16:56:32] [Server thread/INFO]: Max TNT Explosions: 100
-[16:56:32] [Server thread/INFO]: Max Entity Collisions: 8
-[16:56:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:56:32] [Server thread/INFO]: Anti X-Ray: true
-[16:56:32] [Server thread/INFO]: 	Engine Mode: 1
-[16:56:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[16:56:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[16:56:32] [Server thread/INFO]: Alternative Hopper Ticking: false
-[16:56:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:56:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
-[16:56:33] [Server thread/INFO]: Preparing spawn area: 78%
-[16:56:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
-[16:56:35] [Server thread/INFO]: Preparing spawn area: 68%
-[16:56:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
-[16:56:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:56:36] [Server thread/INFO]: Done (3.367s)! For help, type "help" or "?"
-[16:56:36] [Craft Scheduler Thread - 0/INFO]: [mcMMO] Cleaned backup files. Deleted 1 of 9 files.
-[16:57:39] [User Authenticator #1/INFO]: UUID of player killeur134 is b39e9302-c9ce-44a7-96c6-fca02475e0cd
-[16:57:40] [Server thread/INFO]: killeur134[/127.0.0.1:62691] logged in with entity id 321 at ([world] 230.46313289337945, 70.0, 1761.033863030677)
-[17:18:16] [Async Chat Thread - #0/INFO]: <killeur134> 226 2457[m
-[17:41:20] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[17:41:20] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[17:42:24] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[17:42:24] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[18:12:33] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[18:12:33] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[18:21:25] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[18:21:25] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[18:36:13] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[18:36:13] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[18:45:16] [Server thread/INFO]: killeur134 issued server command: /tp
-[18:45:33] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 226 2456 100
-[18:45:33] [Server thread/INFO]: [killeur134: Teleported killeur134 to 226.5, 2456.0, 100.5]
-[18:45:51] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[18:45:51] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[18:46:14] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 226 100 2456
-[18:46:14] [Server thread/INFO]: [killeur134: Teleported killeur134 to 226.5, 100.0, 2456.5]
-[18:46:53] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[18:46:53] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[18:47:23] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[18:47:23] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[18:55:05] [Server thread/INFO]: killeur134 lost connection: Disconnected
-[18:55:05] [Server thread/INFO]: killeur134 left the game.
-[18:56:02] [User Authenticator #2/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
-[18:56:02] [Server thread/INFO]: garythemastr[/70.30.95.107:53333] logged in with entity id 23789 at ([world] 227.6999999880791, 71.0, 2478.699999988079)
-[18:56:02] [User Authenticator #3/INFO]: UUID of player killeur134 is b39e9302-c9ce-44a7-96c6-fca02475e0cd
-[18:56:02] [Server thread/INFO]: killeur134[/127.0.0.1:62975] logged in with entity id 23844 at ([world] 223.32967666145717, 71.0, 2742.8421420931377)
-[18:56:14] [Server thread/WARN]: garythemastr moved wrongly!
-[18:58:28] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[18:58:28] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[19:11:15] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[19:11:15] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[19:16:15] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[19:16:15] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[19:16:19] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[19:16:19] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[19:24:57] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[19:24:57] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[19:25:00] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[19:25:00] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[19:37:52] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[19:37:52] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[19:49:25] [Server thread/INFO]: garythemastr issued server command: /mining
-[19:49:34] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[19:49:34] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[19:51:56] [Server thread/WARN]: garythemastr moved wrongly!
-[19:58:23] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[19:58:23] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[20:04:25] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[20:04:25] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[20:04:39] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[20:04:39] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[20:07:25] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[20:07:25] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[20:14:46] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[20:14:46] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[20:14:47] [Server thread/INFO]: garythemastr issued server command: /weather clear
-[20:14:47] [Server thread/INFO]: [garythemastr: Changing to clear weather]
-[20:15:16] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[20:15:16] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[20:18:30] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[20:18:30] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[20:19:05] [Server thread/INFO]: killeur134 lost connection: Disconnected
-[20:19:05] [Server thread/INFO]: killeur134 left the game.
-[20:21:15] [Server thread/INFO]: garythemastr issued server command: /weather clear
-[20:21:15] [Server thread/INFO]: [garythemastr: Changing to clear weather]
-[20:28:56] [Server thread/INFO]: garythemastr lost connection: Disconnected
-[20:28:56] [Server thread/INFO]: garythemastr left the game.
-[21:38:04] [User Authenticator #4/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
-[21:38:04] [Server thread/INFO]: garythemastr[/70.30.95.107:53923] logged in with entity id 56233 at ([world] 230.59788206956253, 71.0, 2472.447229601534)
-[21:39:07] [Server thread/INFO]: garythemastr issued server command: /mcrank
-[21:39:15] [Server thread/INFO]: garythemastr issued server command: /mcscoreboard
-[21:39:28] [Server thread/INFO]: garythemastr issued server command: /mcscoreboard keep
-[21:39:31] [Server thread/INFO]: garythemastr issued server command: /mining
-[21:39:35] [Server thread/INFO]: garythemastr issued server command: /mcscoreboard keep
-[21:41:28] [Server thread/INFO]: garythemastr issued server command: /repair
-[21:41:31] [Server thread/INFO]: garythemastr issued server command: /mining
-[21:42:04] [Server thread/INFO]: garythemastr issued server command: /mining
-[21:42:06] [Server thread/INFO]: garythemastr issued server command: /mcscoreboard keep
-[22:29:09] [Server thread/INFO]: garythemastr issued server command: /mcscoreboard clear
-[22:33:26] [Server thread/INFO]: garythemastr issued server command: /mcstats
-[22:33:33] [Server thread/INFO]: garythemastr issued server command: /mcrank
-[22:33:37] [Server thread/INFO]: garythemastr issued server command: /mc
-[22:33:39] [Server thread/INFO]: garythemastr issued server command: /help
-[22:33:50] [Server thread/INFO]: garythemastr issued server command: /aliases
-[22:33:56] [Async Chat Thread - #1/INFO]: <garythemastr> aliases[m
-[22:34:05] [Server thread/INFO]: garythemastr issued server command: /acrobatics
-[22:34:10] [Server thread/INFO]: garythemastr issued server command: /help 2
-[22:34:18] [Server thread/INFO]: garythemastr issued server command: /alchemy
-[22:34:23] [Server thread/INFO]: garythemastr issued server command: /help 3
-[22:34:34] [Server thread/INFO]: garythemastr issued server command: /help 4
-[22:34:43] [Server thread/INFO]: garythemastr issued server command: /fishing
-[22:35:15] [Server thread/INFO]: garythemastr issued server command: /cooking
-[22:35:17] [Server thread/INFO]: garythemastr issued server command: /help 6
-[22:35:36] [Server thread/INFO]: garythemastr issued server command: /help 6
-[22:35:40] [Server thread/INFO]: garythemastr issued server command: /help 7
-[22:35:52] [Server thread/INFO]: garythemastr issued server command: /mctop
-[22:36:52] [Server thread/INFO]: garythemastr lost connection: Disconnected
-[22:36:52] [Server thread/INFO]: garythemastr left the game.
-[22:40:13] [Server thread/INFO]: [Server] t pas la?
-[22:40:32] [Server thread/INFO]: Saving...
-[22:40:32] [Server thread/INFO]: Saved the world
-[22:40:33] [Server thread/INFO]: Stopping the server
-[22:40:33] [Server thread/INFO]: Stopping server
-[22:40:33] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
-[22:40:33] [Server thread/INFO]: Saving players
-[22:40:33] [Server thread/INFO]: Saving worlds
-[22:40:33] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:40:33] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[22:40:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[19:29:34] [Server thread/INFO]: Starting minecraft server version 1.8
+[19:29:34] [Server thread/INFO]: Loading properties
+[19:29:34] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:34] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[19:29:34] [Server thread/INFO]: Debug logging is disabled
+[19:29:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:29:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:29:34] [Server thread/INFO]: Generating keypair
+[19:29:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:35] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[19:29:35] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[19:29:35] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[19:29:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:29:36] [Server thread/INFO]: Preparing level "world"
+[19:29:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:29:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:29:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:29:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:29:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:29:36] [Server thread/INFO]: View Distance: 10
+[19:29:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:29:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:29:36] [Server thread/INFO]: Clear tick list: false
+[19:29:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:29:36] [Server thread/INFO]: Mob Spawn Range: 4
+[19:29:36] [Server thread/INFO]: Anti X-Ray: true
+[19:29:36] [Server thread/INFO]: 	Engine Mode: 1
+[19:29:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:29:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:29:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:29:36] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:29:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:29:36] [Server thread/INFO]: Random Lighting Updates: false
+[19:29:36] [Server thread/INFO]: Structure Info Saving: true
+[19:29:36] [Server thread/INFO]: Max TNT Explosions: 100
+[19:29:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:29:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:29:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:29:36] [Server thread/INFO]: Max Entity Collisions: 8
+[19:29:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:29:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:29:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:29:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:29:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:29:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:29:36] [Server thread/INFO]: View Distance: 10
+[19:29:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:29:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:29:36] [Server thread/INFO]: Clear tick list: false
+[19:29:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:29:36] [Server thread/INFO]: Mob Spawn Range: 4
+[19:29:36] [Server thread/INFO]: Anti X-Ray: true
+[19:29:36] [Server thread/INFO]: 	Engine Mode: 1
+[19:29:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:29:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:29:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:29:36] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:29:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:29:36] [Server thread/INFO]: Random Lighting Updates: false
+[19:29:36] [Server thread/INFO]: Structure Info Saving: true
+[19:29:36] [Server thread/INFO]: Max TNT Explosions: 100
+[19:29:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:29:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:29:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:29:36] [Server thread/INFO]: Max Entity Collisions: 8
+[19:29:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:29:36] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:29:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:29:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:29:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:29:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:29:36] [Server thread/INFO]: View Distance: 10
+[19:29:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:29:36] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:29:36] [Server thread/INFO]: Clear tick list: false
+[19:29:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:29:36] [Server thread/INFO]: Mob Spawn Range: 4
+[19:29:36] [Server thread/INFO]: Anti X-Ray: true
+[19:29:36] [Server thread/INFO]: 	Engine Mode: 1
+[19:29:36] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:29:36] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[19:29:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:29:36] [Server thread/INFO]: Alternative Hopper Ticking: false
+[19:29:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[19:29:36] [Server thread/INFO]: Random Lighting Updates: false
+[19:29:36] [Server thread/INFO]: Structure Info Saving: true
+[19:29:36] [Server thread/INFO]: Max TNT Explosions: 100
+[19:29:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:29:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:29:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:29:36] [Server thread/INFO]: Sending up to 10 chunks per packet
+[19:29:36] [Server thread/INFO]: Max Entity Collisions: 8
+[19:29:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[19:29:36] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
+[19:29:37] [Server thread/INFO]: Preparing spawn area: 49%
+[19:29:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
+[19:29:39] [Server thread/INFO]: Preparing spawn area: 49%
+[19:29:40] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
+[19:29:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:29:40] [Server thread/INFO]: Done (4.384s)! For help, type "help" or "?"
+[19:29:41] [Craft Scheduler Thread - 0/INFO]: [mcMMO] Cleaned backup files. Deleted 1 of 9 files.
+[19:43:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:43:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:43:18] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:43:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:43:24] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[19:43:24] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[19:43:24] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[19:43:24] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[19:43:24] [Server thread/INFO]: [0;33;22mmcMMO: [0;37;1mAll commands for mcMMO[m
+[19:43:24] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/achievement: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/acrobatics: [0;37;1mDisplay detailed mcMMO skill info for Acrobatics[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/addlevels: [0;37;1mAdd mcMMO levels to a user[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/addxp: [0;37;1mAdd mcMMO XP to a user[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/adminchat: [0;37;1mToggle mcMMO admin chat on/off or send admin chat messages[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/alchemy: [0;37;1mDisplay detailed mcMMO skill info for Alchemy[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/archery: [0;37;1mDisplay detailed mcMMO skill info for Archery[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/axes: [0;37;1mDisplay detailed mcMMO skill info for Axes[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/excavation: [0;37;1mDisplay detailed mcMMO skill info for Excavation[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/fishing: [0;37;1mDisplay detailed mcMMO skill info for Fishing[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/hardcore: [0;37;1mModify the mcMMO hardcore percentage or toggle hardcore mode on/off[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/herbalism: [0;37;1mDisplay detailed mcMMO skill info for Herbalism[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/inspect: [0;37;1mView detailed mcMMO info on another player[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/kraken: [0;37;1mUnleash the kraken![m
+[19:43:24] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcability: [0;37;1mToggle mcMMO abilities being readied on right-click on/off[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcconvert: [0;37;1mConverts database types or experience formula types[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mccooldown: [0;37;1mView all of the mcMMO ability cooldowns[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcfools: [0;37;1mDeploy jokes[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcgod: [0;37;1mToggle mcMMO god-mode on/off[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcmmo: [0;37;1mShow a brief description of mcMMO[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcnotify: [0;37;1mToggle mcMMO abilities chat display notifications on/off[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcpurge: [0;37;1mPurge users with no mcMMO levels and users who have not connected in over 6 months from the mcMMO database.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcrank: [0;37;1mShow mcMMO ranking for a player[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcrefresh: [0;37;1mRefresh all cooldowns for mcMMO[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcremove: [0;37;1mRemove a user from the mcMMO database[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcscoreboard: [0;37;1mChange the current mcMMO scoreboard being displayed[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mcstats: [0;37;1mShow your mcMMO levels and XP[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mctop: [0;37;1mShow mcMMO leader boards[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/minecraft:stats: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mining: [0;37;1mDisplay detailed mcMMO skill info for Mining[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mmoedit: [0;37;1mEdit mcMMO levels for a user[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mmoshowdb: [0;37;1mShow the name of the current database type (for later use with /mmoupdate)[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/mobhealth: [0;37;1mChange the style of the mob healthbar[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/party: [0;37;1mControl various mcMMO party settings[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/partychat: [0;37;1mToggle mcMMO party chat on/off or send party chat messages[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/ptp: [0;37;1mTeleport to an mcMMO party member[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/repair: [0;37;1mDisplay detailed mcMMO skill info for Repair[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/skillreset: [0;37;1mReset mcMMO levels for a user[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/smelting: [0;37;1mDisplay detailed mcMMO skill info for Smelting[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/swords: [0;37;1mDisplay detailed mcMMO skill info for Swords[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/taming: [0;37;1mDisplay detailed mcMMO skill info for Taming[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/unarmed: [0;37;1mDisplay detailed mcMMO skill info for Unarmed[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/vampirism: [0;37;1mModify the mcMMO vampirism percentage or toggle vampirism mode on/off[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/woodcutting: [0;37;1mDisplay detailed mcMMO skill info for Woodcutting[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[19:43:24] [Server thread/INFO]: [0;33;22m/xprate: [0;37;1mModify the mcMMO XP rate or start an mcMMO XP event[m
+[19:43:50] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:43:54] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[19:46:45] [User Authenticator #1/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
+[19:46:45] [Server thread/INFO]: garythemastr[/192.168.2.11:3152] logged in with entity id 320 at ([world] 227.70861530803117, 71.0, 2470.7616690540003)
+[20:04:15] [Server thread/WARN]: garythemastr moved wrongly!
+[20:20:41] [Server thread/INFO]: garythemastr issued server command: /weather clear
+[20:20:41] [Server thread/INFO]: [garythemastr: Changing to clear weather]
+[21:02:20] [Server thread/INFO]: garythemastr lost connection: Disconnected
+[21:02:20] [Server thread/INFO]: garythemastr left the game.
+[21:05:05] [Server thread/INFO]: Saving...
+[21:05:05] [Server thread/INFO]: Saved the world
+[21:05:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:05:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[21:05:11] [Server thread/INFO]: Stopping the server
+[21:05:11] [Server thread/INFO]: Stopping server
+[21:05:11] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[21:05:11] [Server thread/INFO]: Saving players
+[21:05:11] [Server thread/INFO]: Saving worlds
+[21:05:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:05:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:05:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
