@@ -1,10 +1,10 @@
-[00:04:48] [Server thread/INFO]: Saving...
-[00:04:49] [Server thread/INFO]: Saved the world
-[00:04:51] [Server thread/INFO]: Stopping the server
-[00:04:51] [Server thread/INFO]: Stopping server
-[00:04:51] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
-[00:04:51] [Server thread/INFO]: Saving players
-[00:04:51] [Server thread/INFO]: Saving worlds
-[00:04:51] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:04:51] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[00:04:51] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:01:41] [Server thread/INFO]: Saving...
+[00:01:41] [Server thread/INFO]: Saved the world
+[00:01:42] [Server thread/INFO]: Stopping the server
+[00:01:42] [Server thread/INFO]: Stopping server
+[00:01:42] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[00:01:43] [Server thread/INFO]: Saving players
+[00:01:43] [Server thread/INFO]: Saving worlds
+[00:01:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:01:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:01:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
