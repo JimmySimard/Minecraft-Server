@@ -1,143 +1,214 @@
-[18:47:00] [Server thread/INFO]: Starting minecraft server version 1.8
-[18:47:00] [Server thread/INFO]: Loading properties
-[18:47:00] [Server thread/INFO]: Default game type: SURVIVAL
-[18:47:00] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
-[18:47:00] [Server thread/INFO]: Debug logging is disabled
-[18:47:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:47:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:47:00] [Server thread/INFO]: Generating keypair
-[18:47:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:47:01] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:47:01] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
-[18:47:01] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
-[18:47:02] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:47:03] [Server thread/INFO]: Preparing level "world"
-[18:47:03] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:47:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:47:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:47:03] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:47:03] [Server thread/INFO]: Max Entity Collisions: 8
-[18:47:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:47:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:47:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:03] [Server thread/INFO]: View Distance: 10
-[18:47:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:03] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:47:03] [Server thread/INFO]: Clear tick list: false
-[18:47:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:47:03] [Server thread/INFO]: Mob Spawn Range: 4
-[18:47:03] [Server thread/INFO]: Anti X-Ray: true
-[18:47:03] [Server thread/INFO]: 	Engine Mode: 1
-[18:47:03] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:47:03] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:47:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:03] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:47:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:47:03] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:03] [Server thread/INFO]: Structure Info Saving: true
-[18:47:03] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:03] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:47:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:47:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:47:03] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:47:03] [Server thread/INFO]: Max Entity Collisions: 8
-[18:47:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:47:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:47:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:03] [Server thread/INFO]: View Distance: 10
-[18:47:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:03] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:47:03] [Server thread/INFO]: Clear tick list: false
-[18:47:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:47:03] [Server thread/INFO]: Mob Spawn Range: 4
-[18:47:03] [Server thread/INFO]: Anti X-Ray: true
-[18:47:03] [Server thread/INFO]: 	Engine Mode: 1
-[18:47:03] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:47:03] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:47:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:03] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:47:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:47:03] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:03] [Server thread/INFO]: Structure Info Saving: true
-[18:47:03] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:47:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:47:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:47:03] [Server thread/INFO]: Sending up to 10 chunks per packet
-[18:47:03] [Server thread/INFO]: Max Entity Collisions: 8
-[18:47:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[18:47:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:47:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:03] [Server thread/INFO]: View Distance: 10
-[18:47:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:03] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[18:47:03] [Server thread/INFO]: Clear tick list: false
-[18:47:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:47:03] [Server thread/INFO]: Mob Spawn Range: 4
-[18:47:03] [Server thread/INFO]: Anti X-Ray: true
-[18:47:03] [Server thread/INFO]: 	Engine Mode: 1
-[18:47:03] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[18:47:03] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[18:47:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:03] [Server thread/INFO]: Alternative Hopper Ticking: false
-[18:47:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[18:47:03] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:03] [Server thread/INFO]: Structure Info Saving: true
-[18:47:03] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:03] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
-[18:47:04] [Server thread/INFO]: Preparing spawn area: 43%
-[18:47:04] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
-[18:47:05] [Server thread/INFO]: Preparing spawn area: 49%
-[18:47:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
-[18:47:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:47:07] [Server thread/INFO]: Done (4.484s)! For help, type "help" or "?"
-[18:48:16] [User Authenticator #1/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
-[18:48:16] [Server thread/INFO]: garythemastr[/127.0.0.1:51701] logged in with entity id 385 at ([world] 220.27195616387448, 18.0, 10309.819007325408)
-[19:23:54] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
-[19:23:54] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
-[19:35:48] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
-[19:35:48] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
-[19:40:12] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
-[19:40:12] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
-[19:40:18] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
-[19:40:18] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
-[19:45:11] [Server thread/INFO]: garythemastr lost connection: Disconnected
-[19:45:11] [Server thread/INFO]: garythemastr left the game.
-[19:45:31] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[19:45:35] [Server thread/INFO]: Saving...
-[19:45:35] [Server thread/INFO]: Saved the world
-[19:45:40] [Server thread/INFO]: Stopping the server
-[19:45:40] [Server thread/INFO]: Stopping server
-[19:45:40] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
-[19:45:49] [Server thread/INFO]: Saving players
-[19:45:49] [Server thread/INFO]: Saving worlds
-[19:45:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:45:50] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[19:45:50] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[15:46:20] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:46:20] [Server thread/INFO]: Loading properties
+[15:46:20] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:20] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[15:46:20] [Server thread/INFO]: Debug logging is disabled
+[15:46:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:46:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:46:20] [Server thread/INFO]: Generating keypair
+[15:46:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:46:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:46:20] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[15:46:21] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[15:46:22] [Thread-8/WARN]: [mcMMO] The updater could not find any files for the project id 31030
+[15:46:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:46:22] [Server thread/INFO]: Preparing level "world"
+[15:46:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:22] [Server thread/INFO]: View Distance: 10
+[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:46:22] [Server thread/INFO]: Clear tick list: false
+[15:46:22] [Server thread/INFO]: Anti X-Ray: true
+[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
+[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
+[15:46:22] [Server thread/INFO]: Structure Info Saving: true
+[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
+[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:46:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:22] [Server thread/INFO]: View Distance: 10
+[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:46:22] [Server thread/INFO]: Clear tick list: false
+[15:46:22] [Server thread/INFO]: Anti X-Ray: true
+[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
+[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
+[15:46:22] [Server thread/INFO]: Structure Info Saving: true
+[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
+[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:46:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:46:22] [Server thread/INFO]: View Distance: 10
+[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:46:22] [Server thread/INFO]: Clear tick list: false
+[15:46:22] [Server thread/INFO]: Anti X-Ray: true
+[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
+[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
+[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
+[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
+[15:46:22] [Server thread/INFO]: Structure Info Saving: true
+[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
+[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:46:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
+[15:46:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
+[15:46:24] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
+[15:46:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:46:24] [Server thread/INFO]: Done (2.328s)! For help, type "help" or "?"
+[15:48:06] [User Authenticator #1/INFO]: UUID of player killeur134 is b39e9302-c9ce-44a7-96c6-fca02475e0cd
+[15:48:06] [Server thread/INFO]: killeur134[/127.0.0.1:56398] logged in with entity id 380 at ([world] 296.90140269021623, 66.0, 166.13946082071772)
+[15:48:34] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[15:48:34] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[15:48:51] [Server thread/INFO]: killeur134 issued server command: /weather clear
+[15:48:51] [Server thread/INFO]: [killeur134: Changing to clear weather]
+[15:49:19] [Server thread/INFO]: killeur134 issued server command: /tp
+[15:49:35] [User Authenticator #2/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
+[15:49:35] [Server thread/INFO]: garythemastr[/70.30.123.124:59150] logged in with entity id 796 at ([world] 886.8243827156432, 38.0, 629.1223171690676)
+[15:49:54] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 71 12250
+[15:49:54] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 71.0, 12250.5]
+[15:50:09] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr killeur134
+[15:50:09] [Server thread/INFO]: [garythemastr: Teleported garythemastr to killeur134]
+[15:52:31] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[15:52:31] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[15:52:38] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[15:52:38] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[15:53:29] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[15:53:29] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[15:55:09] [Server thread/INFO]: killeur134 issued server command: /weather clear
+[15:55:09] [Server thread/INFO]: [killeur134: Changing to clear weather]
+[15:57:15] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[15:57:15] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[15:57:18] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[15:57:18] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[15:58:27] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[15:58:27] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[15:59:43] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[15:59:43] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[15:59:49] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[15:59:49] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:00:53] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:00:53] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:01:07] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[16:01:07] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[16:01:22] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[16:01:22] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[16:01:44] [Server thread/INFO]: killeur134 issued server command: /weather clear
+[16:01:44] [Server thread/INFO]: [killeur134: Changing to clear weather]
+[16:01:58] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:01:58] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:02:01] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:02:01] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:04:00] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:04:00] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:04:11] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:04:11] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:04:24] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:04:24] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:05:40] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:05:40] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:06:14] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:06:14] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:19:16] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:19:16] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:19:56] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:19:56] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:33:57] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:33:57] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:34:34] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 71 10300
+[16:34:34] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 71.0, 10300.5]
+[16:34:54] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 14 10300
+[16:34:54] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 14.0, 10300.5]
+[16:35:57] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 garythemastr
+[16:35:57] [Server thread/INFO]: [killeur134: Teleported killeur134 to garythemastr]
+[16:36:39] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:36:39] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:38:31] [Server thread/INFO]: garythemastr lost connection: Disconnected
+[16:38:31] [Server thread/INFO]: garythemastr left the game.
+[16:46:53] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:46:53] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:47:03] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:47:03] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:51:11] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:51:11] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:51:16] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:51:16] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[16:57:50] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[16:57:50] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[16:59:20] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[16:59:20] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[17:01:20] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[17:01:20] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[17:01:40] [Server thread/INFO]: killeur134 lost connection: Disconnected
+[17:01:40] [Server thread/INFO]: killeur134 left the game.
+[17:02:00] [Server thread/INFO]: Saving...
+[17:02:00] [Server thread/INFO]: Saved the world
+[17:02:02] [Server thread/INFO]: Stopping the server
+[17:02:02] [Server thread/INFO]: Stopping server
+[17:02:02] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[17:02:44] [Server thread/INFO]: Saving players
+[17:02:44] [Server thread/INFO]: Saving worlds
+[17:02:44] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:02:45] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:02:45] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
