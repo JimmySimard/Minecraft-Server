@@ -1,214 +1,403 @@
-[15:46:20] [Server thread/INFO]: Starting minecraft server version 1.8
-[15:46:20] [Server thread/INFO]: Loading properties
-[15:46:20] [Server thread/INFO]: Default game type: SURVIVAL
-[15:46:20] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
-[15:46:20] [Server thread/INFO]: Debug logging is disabled
-[15:46:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:46:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:46:20] [Server thread/INFO]: Generating keypair
-[15:46:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:46:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[15:46:20] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
-[15:46:21] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
-[15:46:22] [Thread-8/WARN]: [mcMMO] The updater could not find any files for the project id 31030
-[15:46:22] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[15:46:22] [Server thread/INFO]: Preparing level "world"
-[15:46:22] [Server thread/INFO]: -------- World Settings For [world] --------
-[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:46:22] [Server thread/INFO]: View Distance: 10
-[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[15:46:22] [Server thread/INFO]: Clear tick list: false
-[15:46:22] [Server thread/INFO]: Anti X-Ray: true
-[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
-[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
-[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
-[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
-[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
-[15:46:22] [Server thread/INFO]: Structure Info Saving: true
-[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
-[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
-[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[15:46:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:46:22] [Server thread/INFO]: View Distance: 10
-[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[15:46:22] [Server thread/INFO]: Clear tick list: false
-[15:46:22] [Server thread/INFO]: Anti X-Ray: true
-[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
-[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
-[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
-[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
-[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
-[15:46:22] [Server thread/INFO]: Structure Info Saving: true
-[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
-[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
-[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[15:46:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[15:46:22] [Server thread/INFO]: Item Despawn Rate: 6000
-[15:46:22] [Server thread/INFO]: Item Merge Radius: 2.5
-[15:46:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[15:46:22] [Server thread/INFO]: View Distance: 10
-[15:46:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[15:46:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[15:46:22] [Server thread/INFO]: Experience Merge Radius: 3.0
-[15:46:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[15:46:22] [Server thread/INFO]: Clear tick list: false
-[15:46:22] [Server thread/INFO]: Anti X-Ray: true
-[15:46:22] [Server thread/INFO]: 	Engine Mode: 1
-[15:46:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[15:46:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[15:46:22] [Server thread/INFO]: Alternative Hopper Ticking: false
-[15:46:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[15:46:22] [Server thread/INFO]: Mob Spawn Range: 4
-[15:46:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[15:46:22] [Server thread/INFO]: Max TNT Explosions: 100
-[15:46:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Cane Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Melon Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[15:46:22] [Server thread/INFO]: Random Lighting Updates: false
-[15:46:22] [Server thread/INFO]: Structure Info Saving: true
-[15:46:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[15:46:22] [Server thread/INFO]: Sending up to 10 chunks per packet
-[15:46:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[15:46:22] [Server thread/INFO]: Max Entity Collisions: 8
-[15:46:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[15:46:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
-[15:46:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
-[15:46:24] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
-[15:46:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:46:24] [Server thread/INFO]: Done (2.328s)! For help, type "help" or "?"
-[15:48:06] [User Authenticator #1/INFO]: UUID of player killeur134 is b39e9302-c9ce-44a7-96c6-fca02475e0cd
-[15:48:06] [Server thread/INFO]: killeur134[/127.0.0.1:56398] logged in with entity id 380 at ([world] 296.90140269021623, 66.0, 166.13946082071772)
-[15:48:34] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[15:48:34] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[15:48:51] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[15:48:51] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[15:49:19] [Server thread/INFO]: killeur134 issued server command: /tp
-[15:49:35] [User Authenticator #2/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
-[15:49:35] [Server thread/INFO]: garythemastr[/70.30.123.124:59150] logged in with entity id 796 at ([world] 886.8243827156432, 38.0, 629.1223171690676)
-[15:49:54] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 71 12250
-[15:49:54] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 71.0, 12250.5]
-[15:50:09] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr killeur134
-[15:50:09] [Server thread/INFO]: [garythemastr: Teleported garythemastr to killeur134]
-[15:52:31] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
-[15:52:31] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
-[15:52:38] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[15:52:38] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[15:53:29] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
-[15:53:29] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
-[15:55:09] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[15:55:09] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[15:57:15] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
-[15:57:15] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
-[15:57:18] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[15:57:18] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[15:58:27] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[15:58:27] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[15:59:43] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
-[15:59:43] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
-[15:59:49] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[15:59:49] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:00:53] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:00:53] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:01:07] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
-[16:01:07] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
-[16:01:22] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
-[16:01:22] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
-[16:01:44] [Server thread/INFO]: killeur134 issued server command: /weather clear
-[16:01:44] [Server thread/INFO]: [killeur134: Changing to clear weather]
-[16:01:58] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:01:58] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:02:01] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:02:01] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:04:00] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:04:00] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:04:11] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:04:11] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:04:24] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:04:24] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:05:40] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:05:40] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:06:14] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:06:14] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:19:16] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:19:16] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:19:56] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:19:56] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:33:57] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:33:57] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:34:34] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 71 10300
-[16:34:34] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 71.0, 10300.5]
-[16:34:54] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 223 14 10300
-[16:34:54] [Server thread/INFO]: [killeur134: Teleported killeur134 to 223.5, 14.0, 10300.5]
-[16:35:57] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 garythemastr
-[16:35:57] [Server thread/INFO]: [killeur134: Teleported killeur134 to garythemastr]
-[16:36:39] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:36:39] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:38:31] [Server thread/INFO]: garythemastr lost connection: Disconnected
-[16:38:31] [Server thread/INFO]: garythemastr left the game.
-[16:46:53] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:46:53] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:47:03] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:47:03] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:51:11] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:51:11] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:51:16] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:51:16] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[16:57:50] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[16:57:50] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[16:59:20] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
-[16:59:20] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
-[17:01:20] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
-[17:01:20] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
-[17:01:40] [Server thread/INFO]: killeur134 lost connection: Disconnected
-[17:01:40] [Server thread/INFO]: killeur134 left the game.
-[17:02:00] [Server thread/INFO]: Saving...
-[17:02:00] [Server thread/INFO]: Saved the world
-[17:02:02] [Server thread/INFO]: Stopping the server
-[17:02:02] [Server thread/INFO]: Stopping server
-[17:02:02] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
-[17:02:44] [Server thread/INFO]: Saving players
-[17:02:44] [Server thread/INFO]: Saving worlds
-[17:02:44] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[17:02:45] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[17:02:45] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[21:22:25] [Server thread/INFO]: Starting minecraft server version 1.8
+[21:22:25] [Server thread/INFO]: Loading properties
+[21:22:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:22:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-8a983f9-e81edfc (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[21:22:25] [Server thread/INFO]: Debug logging is disabled
+[21:22:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:22:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:22:25] [Server thread/INFO]: Generating keypair
+[21:22:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:22:26] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:22:26] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.00-b3547
+[21:22:26] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.00-b3547
+[21:22:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:22:28] [Server thread/INFO]: Preparing level "world"
+[21:22:28] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:22:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:22:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:22:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:22:28] [Server thread/INFO]: View Distance: 10
+[21:22:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:22:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:22:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:22:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:22:28] [Server thread/INFO]: Clear tick list: false
+[21:22:28] [Server thread/INFO]: Mob Spawn Range: 4
+[21:22:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:22:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:22:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Random Lighting Updates: false
+[21:22:28] [Server thread/INFO]: Structure Info Saving: true
+[21:22:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[21:22:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:22:28] [Server thread/INFO]: Max TNT Explosions: 100
+[21:22:28] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:22:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:22:28] [Server thread/INFO]: Anti X-Ray: true
+[21:22:28] [Server thread/INFO]: 	Engine Mode: 1
+[21:22:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:22:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:22:28] [Server thread/INFO]: Max Entity Collisions: 8
+[21:22:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:22:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:22:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:22:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:22:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:22:28] [Server thread/INFO]: View Distance: 10
+[21:22:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:22:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:22:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:22:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:22:28] [Server thread/INFO]: Clear tick list: false
+[21:22:28] [Server thread/INFO]: Mob Spawn Range: 4
+[21:22:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:22:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:22:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Random Lighting Updates: false
+[21:22:28] [Server thread/INFO]: Structure Info Saving: true
+[21:22:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[21:22:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:22:28] [Server thread/INFO]: Max TNT Explosions: 100
+[21:22:28] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:22:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:22:28] [Server thread/INFO]: Anti X-Ray: true
+[21:22:28] [Server thread/INFO]: 	Engine Mode: 1
+[21:22:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:22:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:22:28] [Server thread/INFO]: Max Entity Collisions: 8
+[21:22:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:22:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:22:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:22:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:22:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:22:28] [Server thread/INFO]: View Distance: 10
+[21:22:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:22:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:22:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:22:28] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:22:28] [Server thread/INFO]: Clear tick list: false
+[21:22:28] [Server thread/INFO]: Mob Spawn Range: 4
+[21:22:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:22:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:22:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:22:28] [Server thread/INFO]: Random Lighting Updates: false
+[21:22:28] [Server thread/INFO]: Structure Info Saving: true
+[21:22:28] [Server thread/INFO]: Sending up to 10 chunks per packet
+[21:22:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:22:28] [Server thread/INFO]: Max TNT Explosions: 100
+[21:22:28] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:22:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:22:28] [Server thread/INFO]: Anti X-Ray: true
+[21:22:28] [Server thread/INFO]: 	Engine Mode: 1
+[21:22:28] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:22:28] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:22:28] [Server thread/INFO]: Max Entity Collisions: 8
+[21:22:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:22:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7311207883413810125)
+[21:22:29] [Server thread/INFO]: Preparing spawn area: 78%
+[21:22:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7311207883413810125)
+[21:22:30] [Server thread/INFO]: Preparing spawn area: 87%
+[21:22:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7311207883413810125)
+[21:22:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:22:31] [Server thread/INFO]: Done (3.161s)! For help, type "help" or "?"
+[21:22:31] [Craft Scheduler Thread - 0/INFO]: [mcMMO] Cleaned backup files. Deleted 1 of 20 files.
+[21:26:12] [User Authenticator #1/INFO]: UUID of player garythemastr is 0f4957dd-1306-42e7-96cf-89e7892778ae
+[21:26:13] [Server thread/INFO]: garythemastr[/70.30.123.124:61228] logged in with entity id 374 at ([world] -69.00040291743207, 71.0, 12135.97006558189)
+[21:27:59] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:27:59] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:30:19] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:30:19] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:31:59] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:31:59] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:33:57] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:33:57] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:39:48] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:39:48] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:40:14] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:40:14] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:43:13] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:43:13] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:43:35] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:43:35] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:51:27] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:51:27] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:51:39] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:51:39] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:52:17] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:52:17] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[21:52:33] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[21:52:33] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[21:59:09] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[21:59:09] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[22:00:13] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[22:00:13] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[22:00:28] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[22:00:28] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[22:02:06] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[22:02:06] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[22:19:21] [User Authenticator #2/INFO]: UUID of player killeur134 is b39e9302-c9ce-44a7-96c6-fca02475e0cd
+[22:19:21] [Server thread/INFO]: killeur134[/127.0.0.1:61697] logged in with entity id 17867 at ([world] -65.50898509590404, 71.0, 12124.700650898458)
+[22:19:35] [Async Chat Thread - #0/INFO]: <killeur134> hellooooo[m
+[22:20:33] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[22:20:33] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[22:20:43] [Async Chat Thread - #1/INFO]: <garythemastr> Yo[m
+[22:20:44] [Async Chat Thread - #1/INFO]: <garythemastr> jetais afk[m
+[22:24:35] [Async Chat Thread - #2/INFO]: <garythemastr> peuttu aller au volley demain finalement?[m
+[22:24:48] [Async Chat Thread - #2/INFO]: <killeur134> nah 6h50 pis mon rdv est 7h30[m
+[22:24:54] [Async Chat Thread - #2/INFO]: <garythemastr> oh ouain haha[m
+[22:25:00] [Async Chat Thread - #2/INFO]: <killeur134> je l'ai dit a hugo[m
+[22:25:00] [Async Chat Thread - #2/INFO]: <garythemastr> je croyais que c'était 8h30[m
+[22:26:01] [Async Chat Thread - #3/INFO]: <garythemastr> men va chercher des rails et de la vitre et tout[m
+[22:26:14] [Async Chat Thread - #3/INFO]: <killeur134> ok[m
+[22:27:21] [Async Chat Thread - #4/INFO]: <killeur134> mon design de fontaine étais-tu correcte?[m
+[22:27:36] [Async Chat Thread - #4/INFO]: <garythemastr> ouais c'est nice! manque juste a monter le plafond comme tu parlais[m
+[22:29:29] [Async Chat Thread - #5/INFO]: <garythemastr> finalement j'apporte juste les rails, pas de place pour le reste haha[m
+[22:29:37] [Async Chat Thread - #5/INFO]: <garythemastr> va juste manquer la vitre apres[m
+[22:33:15] [Async Chat Thread - #6/INFO]: <garythemastr> tu les as parti du mauvais bord XD[m
+[22:33:34] [Async Chat Thread - #6/INFO]: <killeur134> de quoi?[m
+[22:33:40] [Async Chat Thread - #6/INFO]: <garythemastr> ce que tu viens de faire[m
+[22:33:44] [Async Chat Thread - #6/INFO]: <garythemastr> tu l'a parti de quelle bord?[m
+[22:33:47] [Async Chat Thread - #6/INFO]: <garythemastr> pcq ca m'amene ici[m
+[22:33:57] [Async Chat Thread - #6/INFO]: <garythemastr> les murs fitent pas[m
+[22:34:20] [Async Chat Thread - #6/INFO]: <killeur134> j'ai pas calculer pour les powered[m
+[22:34:24] [Async Chat Thread - #6/INFO]: <garythemastr> XD[m
+[22:34:26] [Async Chat Thread - #6/INFO]: <killeur134> j'ai calculer pour les fenetree[m
+[22:35:01] [Async Chat Thread - #6/INFO]: <killeur134> pareil y'a pas de cote[m
+[22:35:09] [Async Chat Thread - #6/INFO]: <garythemastr> on va faire une exception[m
+[22:35:14] [Async Chat Thread - #6/INFO]: <killeur134> ahahahahaha[m
+[22:35:15] [Async Chat Thread - #6/INFO]: <garythemastr> sur 12000 c'est la premiere lol[m
+[22:35:33] [Async Chat Thread - #6/INFO]: <killeur134> c le premier virage aussi[m
+[22:35:40] [Async Chat Thread - #6/INFO]: <garythemastr> pas fax[m
+[22:35:41] [Async Chat Thread - #6/INFO]: <garythemastr> faux[m
+[22:35:47] [Async Chat Thread - #6/INFO]: <killeur134> donc y faut d exception[m
+[22:35:49] [Async Chat Thread - #6/INFO]: <killeur134> ahahaha[m
+[22:38:19] [Async Chat Thread - #7/INFO]: <garythemastr> mardi Pathfinder ?[m
+[22:40:04] [Async Chat Thread - #8/INFO]: <garythemastr> ?[m
+[22:40:27] [Async Chat Thread - #8/INFO]: <killeur134> j'aimerais mieux mercredi mais mardi me vas aussi ahahah dsl[m
+[22:40:37] [Async Chat Thread - #8/INFO]: <killeur134> j'tait perdu dans mes pensées[m
+[22:40:46] [Async Chat Thread - #8/INFO]: <killeur134> viens ici stp[m
+[22:41:12] [Async Chat Thread - #8/INFO]: <killeur134> comment tu vois ca ici[m
+[22:41:18] [Async Chat Thread - #8/INFO]: <garythemastr> attend jarrive avec les rails[m
+[22:41:54] [Async Chat Thread - #8/INFO]: <garythemastr> theoriquement cest ici[m
+[22:42:06] [Async Chat Thread - #8/INFO]: <killeur134> je mets tu un bloque ou non dansd le coin?[m
+[22:42:24] [Async Chat Thread - #8/INFO]: <garythemastr> ca ferait 2 shot de 3 vitres daffiler, mais je comprends[m
+[22:42:32] [Async Chat Thread - #8/INFO]: <garythemastr> au pire pas de fenetre du tout dans le virage[m
+[22:42:43] [Async Chat Thread - #8/INFO]: <killeur134> j'aime l'idée![m
+[22:42:58] [Async Chat Thread - #8/INFO]: <killeur134> bah le coin avec l'eau ca peut être beau[m
+[22:44:10] [Async Chat Thread - #9/INFO]: <killeur134> de même ca serait tu correecte?[m
+[22:44:24] [Async Chat Thread - #9/INFO]: <garythemastr> ouais[m
+[22:46:11] [Async Chat Thread - #10/INFO]: <garythemastr> jlamene tu au bout ?[m
+[22:46:25] [Async Chat Thread - #10/INFO]: <killeur134> tu peux l'emmener jusqua à la salle[m
+[22:46:52] [Async Chat Thread - #10/INFO]: <killeur134> vaudrait aller reno depot pour choisir nos couleurs ahahahaha[m
+[22:46:59] [Async Chat Thread - #10/INFO]: <garythemastr> haha[m
+[22:47:16] [Async Chat Thread - #10/INFO]: <killeur134> ouin va falloir les enelver les trrack la[m
+[22:47:25] [Async Chat Thread - #10/INFO]: <garythemastr> pourquoi?[m
+[22:47:30] [Async Chat Thread - #10/INFO]: <garythemastr> ah oui cest pas la bonne forme encore[m
+[22:47:34] [Async Chat Thread - #10/INFO]: <garythemastr> pas forme mais materiel[m
+[22:47:40] [Async Chat Thread - #10/INFO]: <killeur134> eh voila[m
+[22:48:30] [Async Chat Thread - #10/INFO]: <killeur134> pour les murs j'ai pensée qu'on pourrait mettre des formes dedans[m
+[22:48:40] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[22:48:40] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[22:48:59] [Async Chat Thread - #10/INFO]: <garythemastr> ah cest bien pensé ![m
+[22:49:05] [Async Chat Thread - #10/INFO]: <killeur134> genre de mêmem[m
+[22:49:09] [Async Chat Thread - #10/INFO]: <garythemastr> ouai s![m
+[22:49:41] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[22:49:41] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[22:49:47] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[22:49:47] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[22:49:58] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr 223 14 10300
+[22:49:58] [Server thread/INFO]: [garythemastr: Teleported garythemastr to 223.5, 14.0, 10300.5]
+[22:50:14] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[22:50:14] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[22:50:52] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr 223 71 12000
+[22:50:52] [Server thread/INFO]: [garythemastr: Teleported garythemastr to 223.5, 71.0, 12000.5]
+[22:50:59] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[22:50:59] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[22:51:15] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[22:51:15] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[22:52:00] [Async Chat Thread - #11/INFO]: <killeur134> je sais vriament quel matériaux prendre[m
+[22:52:04] [Async Chat Thread - #11/INFO]: <killeur134> pas*[m
+[22:52:08] [Async Chat Thread - #11/INFO]: <garythemastr> on va trouver[m
+[22:52:18] [Async Chat Thread - #11/INFO]: <garythemastr> du marbre, ou de la roche fondue, ou de la brique haha[m
+[22:52:38] [Async Chat Thread - #11/INFO]: <killeur134> comment tu fais pour faire du marbre[m
+[22:52:45] [Async Chat Thread - #11/INFO]: <garythemastr> je sais pu[m
+[22:52:47] [Async Chat Thread - #11/INFO]: <killeur134> c tu du polished granite[m
+[22:56:28] [Async Chat Thread - #12/INFO]: <garythemastr> fini les vitres !![m
+[22:56:37] [Async Chat Thread - #12/INFO]: <killeur134> t rapide!!![m
+[22:57:08] [Async Chat Thread - #12/INFO]: <garythemastr> jpeux tu taider a faire dequoi haha[m
+[22:57:08] [Async Chat Thread - #12/INFO]: <killeur134> une montée de chaque bord tu trouverais tu sa beau?[m
+[22:57:21] [Async Chat Thread - #12/INFO]: <killeur134> genre[m
+[22:57:21] [Async Chat Thread - #12/INFO]: <garythemastr> donc 8 montées ?[m
+[22:57:26] [Async Chat Thread - #12/INFO]: <killeur134> non hahaha[m
+[22:57:33] [Async Chat Thread - #12/INFO]: <killeur134> je me suis mal exprimé[m
+[22:57:33] [Async Chat Thread - #12/INFO]: <garythemastr> ca aurait été nice aussi 8[m
+[22:57:41] [Async Chat Thread - #12/INFO]: <killeur134> mais ouin finalement[m
+[22:57:43] [Async Chat Thread - #12/INFO]: <garythemastr> XD[m
+[22:57:48] [Async Chat Thread - #12/INFO]: <killeur134> 8 sa serais nice[m
+[22:58:01] [Async Chat Thread - #12/INFO]: <killeur134> 3 de large[m
+[22:58:53] [Async Chat Thread - #12/INFO]: <garythemastr> ca serait tres nice[m
+[22:58:56] [Async Chat Thread - #12/INFO]: <killeur134> oup[m
+[22:59:08] [Async Chat Thread - #12/INFO]: <garythemastr> oups[m
+[22:59:10] [Async Chat Thread - #12/INFO]: <garythemastr> my bad[m
+[22:59:13] [Async Chat Thread - #12/INFO]: <killeur134> moi ausisi[m
+[22:59:15] [Async Chat Thread - #12/INFO]: <killeur134> hahah[m
+[22:59:20] [Async Chat Thread - #12/INFO]: <garythemastr> haha en effet[m
+[22:59:55] [Async Chat Thread - #12/INFO]: <garythemastr> fait beau avec la colonne dans le coin[m
+[22:59:57] [Async Chat Thread - #12/INFO]: <killeur134> je pense sa pourrait avoir de l'allure[m
+[23:00:18] [Async Chat Thread - #12/INFO]: <killeur134> ca va être de la fucking job[m
+[23:00:22] [Async Chat Thread - #12/INFO]: <garythemastr> ouais haha[m
+[23:00:35] [Async Chat Thread - #12/INFO]: <garythemastr> va falloir faire une salle de coffres[m
+[23:00:41] [Async Chat Thread - #12/INFO]: <garythemastr> je pense qu'on pourrait faire ca justement a l'étage[m
+[23:00:45] [Async Chat Thread - #12/INFO]: <garythemastr> encore plus grand que du 25X25[m
+[23:00:54] [Async Chat Thread - #12/INFO]: <killeur134> chu d'accord[m
+[23:00:56] [Async Chat Thread - #12/INFO]: <garythemastr> avec des pancartes qui ont l'image de l'objet pour qu'on sache a vue[m
+[23:00:59] [Async Chat Thread - #12/INFO]: <garythemastr> ce qu'il y a dans les coffres[m
+[23:01:02] [Async Chat Thread - #12/INFO]: <killeur134> ouiiiiiiiiiiiiiiiiiiiiiii[m
+[23:01:19] [Async Chat Thread - #12/INFO]: <garythemastr> ah mais ca marchera pas, ca serait du 25X25 aussi finalement[m
+[23:01:33] [Async Chat Thread - #12/INFO]: <garythemastr> les escaliers partiraient et reviendrait plus haut genre[m
+[23:01:47] [Async Chat Thread - #12/INFO]: <killeur134> mais le toi va monteer en pyramide[m
+[23:01:55] [Async Chat Thread - #12/INFO]: <garythemastr> oh alors ca marcherais pas[m
+[23:01:57] [Async Chat Thread - #12/INFO]: <killeur134> a moins qu'on fasse pu ca[m
+[23:02:09] [Async Chat Thread - #12/INFO]: <killeur134> je l'Avais déja oublier en fait[m
+[23:02:31] [Async Chat Thread - #12/INFO]: <garythemastr> on pourrais laisser faire le pyramide mais le monter encore de 2 ou 3 blocs ?[m
+[23:03:08] [Async Chat Thread - #12/INFO]: <killeur134> ça me va[m
+[23:03:42] [Async Chat Thread - #12/INFO]: <garythemastr> quoi que ce serait parfait comme ca, pour les escaliers[m
+[23:03:43] [Async Chat Thread - #12/INFO]: <killeur134> les murs on fait sa en quoi[m
+[23:04:03] [Async Chat Thread - #12/INFO]: <garythemastr> je sais pas, tu verrais ca comment ?[m
+[23:04:10] [Async Chat Thread - #12/INFO]: <killeur134> vraiment aucune[m
+[23:04:11] [Async Chat Thread - #12/INFO]: <garythemastr> en brique ca serait malade pour une station de train ? haha[m
+[23:04:13] [Async Chat Thread - #12/INFO]: <killeur134> idée*[m
+[23:04:34] [Async Chat Thread - #12/INFO]: <killeur134> gamemode 1 killeur134[m
+[23:04:37] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[23:04:37] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[23:04:49] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[23:04:49] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[23:04:58] [Async Chat Thread - #12/INFO]: <garythemastr> jaime ca[m
+[23:05:11] [Async Chat Thread - #12/INFO]: <killeur134> ça fait vintage !!![m
+[23:05:25] [Async Chat Thread - #12/INFO]: <killeur134> old train station[m
+[23:05:30] [Async Chat Thread - #12/INFO]: <garythemastr> plancher comme ca genre[m
+[23:05:37] [Async Chat Thread - #12/INFO]: <garythemastr> comme dhab haha[m
+[23:05:49] [Async Chat Thread - #12/INFO]: <killeur134> ahahahaah[m
+[23:05:50] [Async Chat Thread - #12/INFO]: <garythemastr> ouais ca fait retro[m
+[23:06:20] [Async Chat Thread - #12/INFO]: <killeur134> nah[m
+[23:06:41] [Async Chat Thread - #12/INFO]: <killeur134> j'ai essayer les stone brich pis c'était pas beau[m
+[23:06:45] [Async Chat Thread - #12/INFO]: <garythemastr> ah ok haha[m
+[23:06:46] [Async Chat Thread - #12/INFO]: <killeur134> mais oui pour le reste[m
+[23:07:51] [Async Chat Thread - #13/INFO]: <garythemastr> ouais ca va etre hto je crois[m
+[23:07:52] [Async Chat Thread - #13/INFO]: <garythemastr> hot[m
+[23:08:05] [Async Chat Thread - #13/INFO]: <killeur134> trop blanc[m
+[23:08:08] [Async Chat Thread - #13/INFO]: <garythemastr> ^^[m
+[23:08:39] [Async Chat Thread - #13/INFO]: <killeur134> c bon brick sa sera[m
+[23:08:57] [Async Chat Thread - #13/INFO]: <garythemastr> la le plafond[m
+[23:09:04] [Async Chat Thread - #13/INFO]: <garythemastr> si on le monte pas, ca va etre simple pour les 8 escaliers[m
+[23:09:11] [Async Chat Thread - #13/INFO]: <garythemastr> qui deviendrait 4 en haut genre[m
+[23:10:17] [Async Chat Thread - #14/INFO]: <killeur134> tout simplement?[m
+[23:10:20] [Async Chat Thread - #14/INFO]: <garythemastr> le plafond d'ici va devenir le plancher d'en haut[m
+[23:10:35] [Async Chat Thread - #14/INFO]: <garythemastr> quoi qu'on pourrait mettre un bloc de différence[m
+[23:10:44] [Async Chat Thread - #14/INFO]: <killeur134> c ce que j'allais dire haha[m
+[23:11:53] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[23:11:53] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[23:12:33] [Async Chat Thread - #15/INFO]: <garythemastr> men va essayer de pogner un peu de clay[m
+[23:12:52] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[23:12:52] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[23:13:08] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[23:13:08] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[23:16:19] [Async Chat Thread - #16/INFO]: <killeur134> j'ai fait un design pour le toi[m
+[23:16:33] [Async Chat Thread - #16/INFO]: <killeur134> tp toi sur moi mais retiens ta position[m
+[23:16:40] [Async Chat Thread - #16/INFO]: <garythemastr> 2 sec[m
+[23:17:38] [Async Chat Thread - #16/INFO]: <garythemastr> -99 63 12359[m
+[23:17:43] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr killeur134
+[23:17:43] [Server thread/INFO]: [garythemastr: Teleported garythemastr to killeur134]
+[23:17:48] [Async Chat Thread - #16/INFO]: <garythemastr> oh wow[m
+[23:17:58] [Async Chat Thread - #16/INFO]: <killeur134> ya la je suis pas sur[m
+[23:18:06] [Async Chat Thread - #16/INFO]: <garythemastr> sauf qu'ici ca va etre flush haha[m
+[23:18:19] [Async Chat Thread - #16/INFO]: <killeur134> on peut le monter[m
+[23:18:29] [Async Chat Thread - #16/INFO]: <garythemastr> si on le monte, ca va compliquer la salle du dessus par contre[m
+[23:18:54] [Async Chat Thread - #16/INFO]: <garythemastr> ah cest correct je crois[m
+[23:19:08] [Async Chat Thread - #16/INFO]: <garythemastr> c'est juste le point central, on est pas en haut longtemps haha[m
+[23:19:52] [Async Chat Thread - #16/INFO]: <killeur134> c juste un idée pour se partir on peut la modifier[m
+[23:19:57] [Async Chat Thread - #16/INFO]: <garythemastr> c bon haha[m
+[23:20:06] [Server thread/INFO]: garythemastr issued server command: /tp garythemastr -99 63 12359
+[23:20:06] [Server thread/INFO]: [garythemastr: Teleported garythemastr to -98.5, 63.0, 12359.5]
+[23:20:09] [Async Chat Thread - #16/INFO]: <killeur134> une chose est sure ca va couter cher de matériaux[m
+[23:20:19] [Async Chat Thread - #16/INFO]: <garythemastr> c bon ca haha[m
+[23:20:41] [Async Chat Thread - #16/INFO]: <killeur134> je vais aller ramasser un peu de clay aussi[m
+[23:20:51] [Server thread/INFO]: killeur134 issued server command: /gamemode 0 killeur134
+[23:20:51] [Server thread/INFO]: [killeur134: Set own game mode to Survival Mode]
+[23:20:57] [Async Chat Thread - #16/INFO]: <garythemastr> deja presque 5 stack![m
+[23:23:24] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[23:23:24] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[23:23:43] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[23:23:43] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[23:27:45] [Server thread/INFO]: garythemastr issued server command: /gamemode 1 garythemastr
+[23:27:45] [Server thread/INFO]: [garythemastr: Set own game mode to Creative Mode]
+[23:28:25] [Async Chat Thread - #17/INFO]: <killeur134> combien on a besoin pour faire un block de brick ? 4?[m
+[23:28:30] [Async Chat Thread - #17/INFO]: <garythemastr> 4 je crois ?[m
+[23:30:50] [Async Chat Thread - #18/INFO]: <garythemastr> si tu peux tp toi sur moi[m
+[23:31:00] [Async Chat Thread - #18/INFO]: <garythemastr> jvais te montrer dequoi que j'avais starter[m
+[23:31:14] [Async Chat Thread - #18/INFO]: <killeur134> 2 sec[m
+[23:32:14] [Async Chat Thread - #19/INFO]: <killeur134> -143 63 12368[m
+[23:32:18] [Server thread/INFO]: killeur134 issued server command: /tp
+[23:32:26] [Async Chat Thread - #19/INFO]: <garythemastr> met toi gamemode 1[m
+[23:32:41] [Server thread/INFO]: killeur134 issued server command: /gamemode 1 killeur134
+[23:32:41] [Server thread/INFO]: [killeur134: Set own game mode to Creative Mode]
+[23:32:44] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 garythemaster
+[23:32:57] [Server thread/INFO]: killeur134 issued server command: /tp killeur134 garythemaster
+[23:33:05] [Async Chat Thread - #19/INFO]: <killeur134> le tp marche pas?[m
+[23:33:10] [Server thread/INFO]: garythemastr issued server command: /tp killeur134 garythemastr
+[23:33:10] [Server thread/INFO]: [garythemastr: Teleported killeur134 to garythemastr]
+[23:33:13] [Async Chat Thread - #19/INFO]: <garythemastr> oui lol[m
+[23:33:20] [Async Chat Thread - #19/INFO]: <garythemastr> dans la montagne[m
+[23:33:23] [Async Chat Thread - #19/INFO]: <garythemastr> jai commencé a creuser[m
+[23:33:32] [Async Chat Thread - #19/INFO]: <garythemastr> avant souper ca[m
+[23:33:42] [Async Chat Thread - #19/INFO]: <garythemastr> ca longe les bordures de la montagne[m
+[23:33:54] [Async Chat Thread - #19/INFO]: <garythemastr> quand ca va etre fait, on va avoir une meilleure idée de l'espace disponible a l'intérieur[m
+[23:34:07] [Async Chat Thread - #19/INFO]: <garythemastr> et on pourra fermer les mur, faire les tours, comme on veut[m
+[23:34:09] [Async Chat Thread - #19/INFO]: <killeur134> ouais je faisais sa aussi dans mes jeunes années de minecraft[m
+[23:34:13] [Async Chat Thread - #19/INFO]: <garythemastr> haha[m
+[23:34:42] [Async Chat Thread - #19/INFO]: <killeur134> c hot le train qui rentre dans la montage[m
+[23:34:47] [Async Chat Thread - #19/INFO]: <garythemastr> ouais[m
+[23:35:01] [Async Chat Thread - #19/INFO]: <garythemastr> bon, dodo time moi[m
+[23:35:05] [Async Chat Thread - #19/INFO]: <killeur134> j'ai ramasser 8 stack de clay[m
+[23:35:18] [Async Chat Thread - #19/INFO]: <garythemastr> 12 moi[m
+[23:35:20] [Async Chat Thread - #19/INFO]: <garythemastr> donc 20 total[m
+[23:35:23] [Async Chat Thread - #19/INFO]: <killeur134> excellent[m
+[23:35:36] [Async Chat Thread - #19/INFO]: <garythemastr> bonne nuit![m
+[23:35:37] [Async Chat Thread - #19/INFO]: <killeur134> 5 stack de brick[m
+[23:35:41] [Async Chat Thread - #19/INFO]: <killeur134> bonne nuit[m
+[23:35:47] [Async Chat Thread - #19/INFO]: <killeur134> bon volley demain[m
+[23:35:51] [Server thread/INFO]: killeur134 lost connection: Disconnected
+[23:35:51] [Server thread/INFO]: killeur134 left the game.
+[23:35:52] [Async Chat Thread - #19/INFO]: <garythemastr> thanks[m
+[23:35:56] [Server thread/INFO]: garythemastr issued server command: /gamemode 0 garythemastr
+[23:35:56] [Server thread/INFO]: [garythemastr: Set own game mode to Survival Mode]
+[23:35:59] [Server thread/INFO]: garythemastr lost connection: Disconnected
+[23:35:59] [Server thread/INFO]: garythemastr left the game.
+[23:37:10] [Server thread/INFO]: Saving...
+[23:37:10] [Server thread/INFO]: Saved the world
+[23:37:13] [Server thread/INFO]: Stopping the server
+[23:37:13] [Server thread/INFO]: Stopping server
+[23:37:13] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.00-b3547
+[23:37:34] [Server thread/INFO]: Saving players
+[23:37:34] [Server thread/INFO]: Saving worlds
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[23:37:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
